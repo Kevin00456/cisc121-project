@@ -108,16 +108,10 @@ Library,42
 Expected: one item returned correctly.
 
 Result: Passed.
-
----
-
-# Demo
-(Add screenshots of the app running here.)
-
 ---
 
 # Hugging Face Link
-(Add your Hugging Face app link after deployment.)
+https://huggingface.co/spaces/yourusername/campus-shuttle-sorter
 
 ---
 
