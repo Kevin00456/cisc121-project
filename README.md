@@ -5,6 +5,7 @@ This app solves the shuttle stop crowd ranking problem. It ranks campus shuttle 
 
 ## Chosen Algorithm
 The algorithm used in this project is Merge Sort.
+Merge Sort was chosen because it is a stable and efficient sorting algorithm with a time complexity of O(n log n). It works well for visual demonstrations because the process of splitting and merging lists can be clearly shown to users. This makes it easier for someone learning algorithms to understand how the sorting process works step-by-step.
 
 ## Why this algorithm fits
 Merge Sort works well for this problem because it efficiently sorts lists by repeatedly dividing the list into smaller halves and merging them back together in order. It is also easy to visualize step-by-step.
